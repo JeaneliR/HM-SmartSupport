@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <rect width="1400" height="760" fill="#f8fafc"/>
+  <text x="700" y="70" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#172554">Arquitectura funcional - HM Smart Support</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#475569"/></marker>
+  </defs>
+  <g font-family="Arial" text-anchor="middle">
+    <rect x="80" y="220" width="190" height="120" rx="20" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+    <text x="175" y="272" font-size="25" font-weight="700" fill="#1e3a8a">USUARIO</text><text x="175" y="307" font-size="19" fill="#334155">Texto / Audio</text>
+    <rect x="340" y="220" width="210" height="120" rx="20" fill="#ede9fe" stroke="#7c3aed" stroke-width="3"/>
+    <text x="445" y="272" font-size="25" font-weight="700" fill="#4c1d95">STREAMLIT</text><text x="445" y="307" font-size="19" fill="#334155">Interfaz web</text>
+    <rect x="620" y="130" width="230" height="120" rx="20" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+    <text x="735" y="182" font-size="24" font-weight="700" fill="#14532d">SESSION STATE</text><text x="735" y="217" font-size="19" fill="#334155">Historial</text>
+    <rect x="620" y="330" width="230" height="120" rx="20" fill="#fef3c7" stroke="#d97706" stroke-width="3"/>
+    <text x="735" y="382" font-size="24" font-weight="700" fill="#78350f">PROMPT V3</text><text x="735" y="417" font-size="19" fill="#334155">Reglas y contexto</text>
+    <rect x="930" y="220" width="190" height="120" rx="20" fill="#fee2e2" stroke="#dc2626" stroke-width="3"/>
+    <text x="1025" y="272" font-size="25" font-weight="700" fill="#7f1d1d">LLM / API</text><text x="1025" y="307" font-size="19" fill="#334155">Chat + Audio</text>
+    <rect x="1190" y="220" width="160" height="120" rx="20" fill="#cffafe" stroke="#0891b2" stroke-width="3"/>
+    <text x="1270" y="266" font-size="22" font-weight="700" fill="#164e63">SALIDA</text><text x="1270" y="298" font-size="18" fill="#334155">Respuesta</text><text x="1270" y="324" font-size="18" fill="#334155">Clasificación</text>
+    <line x1="270" y1="280" x2="330" y2="280" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="550" y1="265" x2="610" y2="205" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="550" y1="300" x2="610" y2="375" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="850" y1="190" x2="920" y2="255" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="850" y1="390" x2="920" y2="305" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="1120" y1="280" x2="1180" y2="280" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+    <rect x="280" y="560" width="840" height="105" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="700" y="605" font-size="22" font-weight="700" fill="#334155">Servicios separados</text>
+    <text x="700" y="640" font-size="19" fill="#475569">chat_service.py · audio_service.py · classifier_service.py</text>
+  </g>
+</svg>
+

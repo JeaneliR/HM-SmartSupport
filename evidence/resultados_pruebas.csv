@@ -1,0 +1,68 @@
+﻿"id","tipo","escenario","entrada","categoria_esperada","prioridad_esperada","resultado_esperado","obtenido","categoria_obtenida","prioridad_obtenida","tiempo_segundos","cumple","observaciones"
+"CP01","texto","Consulta simple","¿Qué diferencia hay entre una remalladora y una máquina de coser?","Información","Baja","Respuesta pertinente al dominio","La principal diferencia es que la remalladora se utiliza para acabar los bordes de las telas y evitar que se deshilachen, mientras que la máquina de coser está diseñada para unir piezas de tela. 
+
+1. La remalladora utiliza un sistema de cuchillas para cortar el exceso de tela mientras cose.
+2. La máquina de coser generalmente tiene un solo tipo de puntada y se enfoca en unir las telas.
+3. La remalladora puede hacer puntadas más elásticas, ideales para tejidos de punto.
+
+¿Te gustaría saber más sobre alguna de estas máquinas en particular?","Información","Baja","7.770","Sí","Revisar cualitativamente la respuesta antes de entregar."
+"CP02","texto","Mantenimiento","¿Cómo limpio mi máquina de coser después de usarla?","Mantenimiento","Baja","Orientación segura y clara","Para limpiar tu máquina de coser después de usarla, sigue estos pasos:
+
+1. **Apaga y desconecta** la máquina para garantizar tu seguridad.
+2. **Retira el pie prensatela** y la aguja para facilitar el acceso a las partes internas.
+3. **Usa un cepillo suave** para eliminar el polvo y los hilos sueltos de la zona de la canilla y el área de la aguja.
+4. **Limpia con un paño seco** las superficies externas y asegúrate de que no queden restos de hilo.
+5. **Consulta el manual** de tu máquina para ver si hay recomendaciones específicas de limpieza.
+
+¿Tienes el modelo de tu máquina para verificar si hay instrucciones adicionales?","Mantenimiento","Baja","4.474","Sí","Revisar cualitativamente la respuesta antes de entregar."
+"CP03","texto","Configuración","¿Cómo ajusto la tensión del hilo superior?","Configuración","Media","Pasos comprensibles y solicitud de modelo si hace falta","Para ajustar la tensión del hilo superior en tu máquina de coser, sigue estos pasos:
+
+1. **Consulta el manual**: Revisa el manual de tu máquina para identificar la ubicación del regulador de tensión del hilo superior.
+2. **Prueba de costura**: Realiza una prueba de costura en un trozo de tela similar al que usarás. Observa si las puntadas son uniformes.
+3. **Ajusta la tensión**: Si las puntadas son demasiado flojas, gira el regulador hacia un número más alto. Si son demasiado apretadas, gíralo hacia un número más bajo.
+4. **Repite la prueba**: Realiza otra prueba de costura y ajusta nuevamente si es necesario hasta obtener el resultado deseado.
+
+¿Puedes indicarme la marca y modelo de tu máquina para ofrecerte recomendaciones más específicas?","Configuración","Media","4.885","Sí","Revisar cualitativamente la respuesta antes de entregar."
+"CP04","texto","Pregunta ambigua","Mi máquina suena raro ¿qué hago?","Falla","Alta","Solicita marca modelo y descripción del ruido","Es importante identificar el tipo de sonido y cuándo ocurre. Aquí tienes algunos pasos que puedes seguir:
+
+1. **Revisa el manual**: Consulta el manual de tu máquina para entender los sonidos normales y anormales.
+2. **Limpieza**: Asegúrate de que no haya hilos o suciedad en las partes móviles. Apaga y desconecta la máquina antes de limpiar.
+3. **Lubricación**: Si tu máquina requiere lubricación, asegúrate de hacerlo según las indicaciones del manual.
+4. **Verifica la tensión**: Revisa la tensión del hilo, ya que una tensión incorrecta puede causar ruidos extraños.
+5. **Prueba de funcionamiento**: Enciende la máquina y prueba nuevamente, prestando atención a si el sonido persiste.
+
+¿Puedes indicarme la marca y el modelo de tu máquina para brindarte una orientación más específica?","Falla","Alta","3.798","Sí","Revisar cualitativamente la respuesta antes de entregar."
+"CP05","texto","Información desconocida","¿Tienen hoy la cuchilla XZ-999 en stock y cuánto cuesta?","Repuesto","Baja","No inventa precio ni stock","No puedo confirmar el stock ni el precio de la cuchilla XZ-999 sin más información. Por favor, indícame la marca y el modelo de la máquina para poder ayudarte mejor.","Repuesto","Baja","2.510","Sí","Revisar cualitativamente la respuesta antes de entregar."
+"CP06","texto","Tema fuera del dominio","¿Quién ganará el partido de fútbol de mañana?","Otros","Baja","Redirige a postventa textil","Ese tema está fuera de mi alcance. Puedo ayudarte con uso, mantenimiento, fallas, garantía, repuestos o servicio técnico de máquinas para el sector textil. ¿Tienes alguna consulta relacionada con eso?","Otros","Baja","2.665","Sí","Revisar cualitativamente la respuesta antes de entregar."
+"CP07","texto","Contexto inicial","¿Qué mantenimiento necesita una remalladora?","Mantenimiento","Baja","Explica mantenimiento preventivo","El mantenimiento de una remalladora incluye limpieza y lubricación regular para asegurar su buen funcionamiento. Aquí tienes algunos pasos a seguir:
+
+1. **Apagar y desconectar** el equipo antes de realizar cualquier mantenimiento.
+2. **Limpiar** el área de la aguja y el plato de la máquina con un cepillo suave para eliminar hilos y pelusas.
+3. **Lubricar** las partes móviles según las indicaciones del manual específico de tu remalladora.
+4. **Revisar** las cuchillas y ajustarlas o reemplazarlas si están desgastadas.
+5. **Verificar** el enhebrado y asegurarte de que no haya obstrucciones en los hilos.
+
+¿Tienes el modelo de tu remalladora para brindarte recomendaciones más específicas?","Mantenimiento","Baja","3.367","Sí","Revisar cualitativamente la respuesta antes de entregar."
+"CP08","texto","Seguimiento con contexto","¿Y cada cuánto tiempo debo hacerlo?","Mantenimiento","Baja","Usa el contexto de CP07","La frecuencia del mantenimiento de una remalladora depende del uso que le des. Aquí te doy una guía general:
+
+1. **Limpieza**: Realiza una limpieza después de cada uso o al menos una vez a la semana si usas la máquina frecuentemente.
+2. **Lubricación**: Lubrica las partes móviles cada 8 a 10 horas de uso, o según lo indique el manual de tu remalladora.
+3. **Revisión de cuchillas**: Verifica el estado de las cuchillas cada mes y reemplázalas si notas que están desgastadas.
+4. **Revisión general**: Haz una revisión más completa cada 3 a 6 meses, dependiendo de la intensidad de uso.
+
+¿Te gustaría saber más sobre algún aspecto específico del mantenimiento?","Mantenimiento","Baja","4.798","Sí","Revisar cualitativamente la respuesta antes de entregar."
+"CP09","audio","Audio WAV","tests/assets/consulta_mantenimiento.wav","Mantenimiento","Baja","Transcribe correctamente","Audio WAV transcrito correctamente y utilizado como consulta.","Mantenimiento","Baja","","Sí","Archivo WAV cargado, transcrito y utilizado correctamente como consulta."
+"CP10","audio","Audio MP3 o M4A","tests/assets/consulta_repuesto.m4a","Repuesto","Baja","Transcribe correctamente","Consulta sobre compatibilidad de cuchilla transcrita y respondida correctamente.","Repuesto","Baja","5.08","Sí","Archivo de audio cargado, transcrito y utilizado correctamente como consulta."
+"CP11","audio","Audio a chatbot","tests/assets/consulta_falla.mp3","Falla","Alta","Transcribe clasifica y responde","Mi bordadora hace un ruido fuerte y se detiene cuando empiezo a usarla. ¿Qué debo hacer?","Falla","Alta","3.06","Sí","Archivo M4A cargado, transcrito, clasificado y respondido correctamente."
+"CP12","texto","Falla técnica","Mi bordadora no enciende desde esta mañana.","Falla","Alta","Clasifica la falla y orienta a soporte","Primero, asegúrate de que el equipo esté correctamente conectado a la corriente y que la toma de corriente funcione. Si todo está en orden y aún no enciende, sigue estos pasos:
+
+1. Verifica que el interruptor de encendido esté en la posición correcta.
+2. Revisa el cable de alimentación en busca de daños visibles.
+3. Si tienes un fusible en la toma, verifica si está fundido y cámbialo si es necesario.
+4. Si el problema persiste, detén el uso y solicita servicio técnico.
+
+¿Puedes indicarme la marca y el modelo de tu bordadora para poder ayudarte mejor?","Falla","Alta","3.416","Sí","Revisar cualitativamente la respuesta antes de entregar."
+"CP13","texto","Situación crítica","Mi remalladora bota humo y huele a quemado.","Falla","Crítica","Indica detener uso y atención técnica urgente","Detén el uso inmediatamente. Apaga y desconecta el equipo solo si puedes hacerlo de forma segura; no vuelvas a encenderlo ni lo desarmes. Solicita evaluación de un técnico autorizado. ¿Puedes indicar la marca y el modelo para registrar correctamente la solicitud?","Falla","Crítica","2.615","Sí","Revisar cualitativamente la respuesta antes de entregar."
+"CP14","texto","Garantía","¿Cómo sé si mi máquina todavía tiene garantía?","Garantía","Baja","Pide comprobante y no inventa cobertura","Para saber si tu máquina todavía tiene garantía, necesitas revisar el comprobante de compra y las condiciones de venta que se te proporcionaron. La garantía suele tener un plazo específico que varía según la marca y el modelo. 
+
+¿Puedes indicarme la marca y el modelo de tu máquina para darte una orientación más precisa?","Garantía","Baja","2.773","Sí","Revisar cualitativamente la respuesta antes de entregar."

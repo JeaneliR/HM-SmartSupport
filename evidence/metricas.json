@@ -1,0 +1,9 @@
+{
+  "pruebas_totales_planificadas": 14,
+  "pruebas_automaticas_ejecutadas": 11,
+  "pruebas_de_audio_pendientes": 3,
+  "tasa_satisfactorias_porcentaje": 100.0,
+  "exactitud_clasificacion_porcentaje": 100.0,
+  "tiempo_promedio_respuesta_segundos": 3.916,
+  "nota": "Completar manualmente los audios y recalcular las metricas finales antes de entregar."
+}

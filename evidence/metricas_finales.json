@@ -1,0 +1,10 @@
+{
+  "pruebas_ejecutadas": 14,
+  "pruebas_satisfactorias": 14,
+  "tasa_satisfactorias_porcentaje": 100.0,
+  "clasificaciones_evaluadas": 14,
+  "clasificaciones_correctas": 14,
+  "exactitud_clasificacion_porcentaje": 100.0,
+  "consultas_con_tiempo": 13,
+  "tiempo_promedio_respuesta_segundos": 3.939
+}

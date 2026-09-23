@@ -1,0 +1,34 @@
+{
+  "empresa": "Hilos y Maquinas S.A.C.",
+  "alcance": [
+    "maquinas de coser",
+    "remalladoras",
+    "bordadoras",
+    "repuestos y accesorios",
+    "postventa y servicio tecnico"
+  ],
+  "orientaciones_generales": {
+    "antes_de_usar": "Revisar el manual especifico de la marca y modelo.",
+    "mantenimiento": "Apagar y desconectar el equipo antes de la limpieza. La frecuencia depende del uso y del manual.",
+    "repuestos": "Confirmar marca, modelo y codigo de pieza antes de afirmar compatibilidad.",
+    "garantia": "La cobertura y vigencia deben validarse con el comprobante y las condiciones de venta.",
+    "riesgo": "Ante humo, olor a quemado, chispas, descarga, fuego o sobrecalentamiento, detener el uso y solicitar servicio tecnico."
+  },
+  "datos_utiles_para_soporte": [
+    "marca",
+    "modelo",
+    "numero de serie cuando corresponda",
+    "codigo de error",
+    "descripcion del sintoma",
+    "momento en que comenzo",
+    "foto o video si el canal lo permite"
+  ],
+  "datos_no_disponibles": [
+    "stock en tiempo real",
+    "precios actuales",
+    "direcciones y horarios vigentes",
+    "condiciones particulares de cada garantia",
+    "compatibilidad de una pieza sin modelo o codigo"
+  ]
+}
+

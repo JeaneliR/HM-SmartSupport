@@ -1,0 +1,16 @@
+id,tipo,escenario,entrada,categoria_esperada,prioridad_esperada,resultado_esperado
+CP01,texto,Consulta simple,¿Qué diferencia hay entre una remalladora y una máquina de coser?,Información,Baja,Respuesta pertinente al dominio
+CP02,texto,Mantenimiento,¿Cómo limpio mi máquina de coser después de usarla?,Mantenimiento,Baja,Orientación segura y clara
+CP03,texto,Configuración,¿Cómo ajusto la tensión del hilo superior?,Configuración,Media,Pasos comprensibles y solicitud de modelo si hace falta
+CP04,texto,Pregunta ambigua,Mi máquina suena raro ¿qué hago?,Falla,Alta,Solicita marca modelo y descripción del ruido
+CP05,texto,Información desconocida,¿Tienen hoy la cuchilla XZ-999 en stock y cuánto cuesta?,Repuesto,Baja,No inventa precio ni stock
+CP06,texto,Tema fuera del dominio,¿Quién ganará el partido de fútbol de mañana?,Otros,Baja,Redirige a postventa textil
+CP07,texto,Contexto inicial,¿Qué mantenimiento necesita una remalladora?,Mantenimiento,Baja,Explica mantenimiento preventivo
+CP08,texto,Seguimiento con contexto,¿Y cada cuánto tiempo debo hacerlo?,Mantenimiento,Baja,Usa el contexto de CP07
+CP09,audio,Audio WAV,tests/assets/consulta_mantenimiento.wav,Mantenimiento,Baja,Transcribe correctamente
+CP10,audio,Audio MP3 o M4A,tests/assets/consulta_repuesto.m4a,Repuesto,Baja,Transcribe correctamente
+CP11,audio,Audio a chatbot,tests/assets/consulta_falla.mp3,Falla,Alta,Transcribe clasifica y responde
+CP12,texto,Falla técnica,Mi bordadora no enciende desde esta mañana.,Falla,Alta,Clasifica la falla y orienta a soporte
+CP13,texto,Situación crítica,Mi remalladora bota humo y huele a quemado.,Falla,Crítica,Indica detener uso y atención técnica urgente
+CP14,texto,Garantía,¿Cómo sé si mi máquina todavía tiene garantía?,Garantía,Baja,Pide comprobante y no inventa cobertura
+
