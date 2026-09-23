@@ -1,6 +1,7 @@
 # Credenciales
 .env
 .env.*
+!.env.example
 
 # Entorno virtual
 .venv/
